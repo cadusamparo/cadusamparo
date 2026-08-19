@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Carlos Eduardo Braz Samparo</h1>
 
-<!--
-**cadusamparo/cadusamparo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full Stack Developer | Java • Spring Boot • JavaScript • TypeScript • Angular • React • PHP
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+- 💻 Desenvolvedor Full Stack
+- ☕ Experiência com Java e Spring Boot no desenvolvimento de back-end
+- ⚛️ Desenvolvimento front-end com React e Angular
+- 🐘 Experiência com PHP e Laravel
+- 🔗 Desenvolvimento e integração de APIs REST
+- 🗄️ Experiência com bancos de dados
+- 🤖 Integração de soluções baseadas em Inteligência Artificial
+- 📱 Experiência com desenvolvimento de aplicações mobile
+- 🚀 Focado em construir aplicações completas, escaláveis e modernas
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,angular,react,php,laravel,html,css,firebase,git,github" />
+
+</div>
