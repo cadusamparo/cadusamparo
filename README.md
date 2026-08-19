@@ -1,29 +1,37 @@
-<h1 align="center">Carlos Eduardo Braz Samparo</h1>
+<div align="center">
 
-<p align="center">
-  Full Stack Developer | Java • Spring Boot • JavaScript • TypeScript • Angular • React • PHP
-</p>
+# Carlos Eduardo Samparo
 
----
+**Full Stack Developer** | Building scalable applications, REST APIs, and modern web solutions.
 
-## 👨‍💻 Sobre mim
+<br>
 
-- 💻 Desenvolvedor Full Stack
-- ☕ Experiência com Java e Spring Boot no desenvolvimento de back-end
-- ⚛️ Desenvolvimento front-end com React e Angular
-- 🐘 Experiência com PHP e Laravel
-- 🔗 Desenvolvimento e integração de APIs REST
-- 🗄️ Experiência com bancos de dados
-- 🤖 Integração de soluções baseadas em Inteligência Artificial
-- 📱 Experiência com desenvolvimento de aplicações mobile
-- 🚀 Focado em construir aplicações completas, escaláveis e modernas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+<br><br>
+
+### Building complete solutions from backend to frontend
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- **Full Stack Developer** focused on building modern and scalable applications.
+- Experience with **Java, Spring Boot, JavaScript, TypeScript, React, Angular, PHP, and Laravel**.
+- Development and integration of **REST APIs** and backend services.
+- Experience with **databases, Firebase, and system integrations**.
+- Working with **AI-powered solutions** and modern web applications.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,angular,react,php,laravel,html,css,firebase,git,github" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,php,laravel,html,css,firebase,mysql,postgres,git,github" />
 
 </div>
+
+---
